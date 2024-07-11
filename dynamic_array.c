@@ -8,7 +8,7 @@ typedef struct {
 	unsigned char* ptr;
 } DynamicArray;
 
-static DynamicArray initialize_arr() {
+static DynamicArray initializedarr() {
 
 	DynamicArray arr = {
 		NULL,
