@@ -12,7 +12,7 @@ void print_struct(TestStruct data) {
 }
 
 int main() {
-	DynamicArray arr = initialize_arr();
+	DynamicArray arr = initializedarr();
 	double double_ = 3.0;
 	int integer = 5;
 	float float_ = 10.0;
